@@ -1,0 +1,1 @@
+This folders module consist shell redirection assignments
